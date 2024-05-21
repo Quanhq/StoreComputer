@@ -1,0 +1,1682 @@
+[{
+  "_id": {
+    "$oid": "64f9737b5c6977535754e738"
+  },
+  "title": "Logitech G102",
+  "slug": "logitech-g102",
+  "description": "<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Mặc d&ugrave; c&oacute; mức gi&aacute; rất phải chăng nhưng Chuột Logitech G102 Lightsync RGB lại được trang bị đ&egrave;n LED RGB 16,8 triệu m&agrave;u. Chọn 1 m&agrave;u hoặc mix 3 m&agrave;u, c&oacute; sẵn hiệu ứng hoặc tự tạo hiệu ứng. Sự lựa chọn l&agrave; của bạn ! Bạn cũng c&oacute; thể đồng bộ chuột với c&aacute;c thiết bị Logitech G LIGHTSYNC kh&aacute;c để gi&uacute;p g&oacute;c quay camera trở n&ecirc;n đồng bộ v&agrave; độc đ&aacute;o hơn.</span></p>",
+  "brand": "logitech",
+  "price": 490000,
+  "category": "Chuột",
+  "quantity": 8,
+  "sold": 108,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694070222/LuanVan/ayorfnfrsxkduvlnu94j.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694070222/LuanVan/ksr16lenqacc5s57zbnc.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694070222/LuanVan/xbsbcuc3ginevncv9inh.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 2.5,
+  "reviews": [
+    {
+      "star": 3,
+      "owner": {
+        "$oid": "651db55dffe2d387787efd8b"
+      },
+      "comment": "Cũn được",
+      "updatedAt": {
+        "$date": "2023-10-05T07:11:49.073Z"
+      },
+      "_id": {
+        "$oid": "651e6229c314865110f1d0d2"
+      }
+    },
+    {
+      "star": 3,
+      "owner": {
+        "$oid": "651a7ae0ffead0ed6a4bf2c4"
+      },
+      "comment": "It's not only writers who can benefit from this free online tool. If you're a programmer who's working on a project where blocks of text are needed, this tool can be a great way to get that. It's a good way to test your programming and that the tool being created is working well.\n\nAbove are a few examples of how the random paragraph generator can be beneficial. The best way to see if this random paragraph picker will be useful for your intended purposes is to give it a try. Generate a number of paragraphs to see if they are beneficial to your current project.",
+      "updatedAt": {
+        "$date": "2023-10-05T08:06:39.599Z"
+      },
+      "_id": {
+        "$oid": "651e67a3c314865110f1d128"
+      }
+    },
+    {
+      "star": 2,
+      "owner": {
+        "$oid": "651fc0ee2dbad24855a11ff6"
+      },
+      "comment": "hgfhg",
+      "updatedAt": {
+        "$date": "2023-10-16T14:13:08.979Z"
+      },
+      "_id": {
+        "$oid": "6528edbffc79349edda7bb41"
+      }
+    },
+    {
+      "star": 2,
+      "owner": {
+        "$oid": "6544a79f79ecf8d58f77cb13"
+      },
+      "comment": "Mua lần 2 tệ",
+      "updatedAt": {
+        "$date": "2023-11-16T13:45:53.007Z"
+      },
+      "_id": {
+        "$oid": "654a9c7d1761c47a2e9d5052"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-07T06:53:47.583Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:14:48.782Z"
+  },
+  "__v": 0,
+  "buyInPrice": 320000
+},
+{
+  "_id": {
+    "$oid": "64f977fb5c6977535754e73b"
+  },
+  "title": "Logitech B100",
+  "slug": "logitech-b100",
+  "description": "The Logitech B100 is a simple yet dependable optical mouse that focuses on core functionality and ease of use. Its comfortable design, precise tracking, and affordable price make it a popular choice for users seeking a no-frills, reliable pointing device for their computers.",
+  "brand": "logitech",
+  "price": 80000,
+  "category": "Chuột",
+  "quantity": 10,
+  "sold": 217,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694070814/LuanVan/km3jsqr1rzl1xd65rouv.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694070814/LuanVan/oc3flzklpjqmdfwadwys.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694070813/LuanVan/qq5r9qbfqw30zdbbuyoj.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 3.5,
+  "reviews": [
+    {
+      "star": 4,
+      "owner": {
+        "$oid": "64f0e4a86033f91b478adccd"
+      },
+      "comment": "Chat luong kem",
+      "_id": {
+        "$oid": "6502a81242bff12996025a26"
+      }
+    },
+    {
+      "star": 5,
+      "owner": {
+        "$oid": "651fc0ee2dbad24855a11ff6"
+      },
+      "comment": "Ngon",
+      "updatedAt": {
+        "$date": "2023-10-13T07:11:28.755Z"
+      },
+      "_id": {
+        "$oid": "6528ec1c6390f61989b7575f"
+      }
+    },
+    {
+      "star": 2,
+      "owner": {
+        "$oid": "6544a79f79ecf8d58f77cb13"
+      },
+      "comment": "Tạm",
+      "updatedAt": {
+        "$date": "2023-11-20T18:26:29.527Z"
+      },
+      "_id": {
+        "$oid": "654a9c219e087e24f4319776"
+      }
+    },
+    {
+      "owner": {
+        "$oid": "656dca0add7e9fd18111658c"
+      },
+      "star": 3,
+      "comment": "Tàm tạm",
+      "updatedAt": {
+        "$date": "2023-12-04T13:07:27.413Z"
+      },
+      "_id": {
+        "$oid": "656dcf0ff3b7724a2573c034"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-07T07:12:59.944Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T18:17:16.860Z"
+  },
+  "__v": 0,
+  "buyInPrice": 50000
+},
+{
+  "_id": {
+    "$oid": "64f978ae5c6977535754e73e"
+  },
+  "title": "Logitech G703 Hero Lightspeed",
+  "slug": "logitech-g703-hero-lightspeed",
+  "description": "The Logitech G703 Hero Lightspeed is a top-tier wireless gaming mouse with an emphasis on precision, speed, and customization. It offers a high-quality gaming experience, making it a popular choice among competitive gamers and enthusiasts.",
+  "brand": "Logitech",
+  "price": 1790000,
+  "category": "Chuột",
+  "quantity": 85,
+  "sold": 51,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694071016/LuanVan/cbpaa9l0a4ciwiu9hwvn.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694071016/LuanVan/utubtkvoa3iyqduhbayl.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694071016/LuanVan/hd3f9yq6e5thkenzuoiw.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694071016/LuanVan/loev1dxhyx3uokkp6zod.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 3.5,
+  "reviews": [
+    {
+      "owner": {
+        "$oid": "6544a79f79ecf8d58f77cb13"
+      },
+      "star": 4,
+      "comment": "",
+      "updatedAt": {
+        "$date": "2023-11-20T18:53:36.627Z"
+      },
+      "_id": {
+        "$oid": "655bab3014d914d7646ef5b8"
+      }
+    },
+    {
+      "owner": {
+        "$oid": "6564376ca3ae9a0c1ef39475"
+      },
+      "star": 3,
+      "comment": "Cũng được, không tốt lắm",
+      "updatedAt": {
+        "$date": "2023-11-27T06:45:46.450Z"
+      },
+      "_id": {
+        "$oid": "65643b1aa3ae9a0c1ef3a20f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-07T07:15:58.483Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-27T06:45:47.220Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1290000"
+},
+{
+  "_id": {
+    "$oid": "64f991a05c6977535754e741"
+  },
+  "title": "Logitech G Pro Wireless",
+  "slug": "logitech-g-pro-wireless",
+  "description": "The Logitech G Pro Wireless is a top-tier gaming mouse that prioritizes performance, precision, and wireless reliability. It has gained a strong reputation among professional gamers for its exceptional sensor technology and customizable features. This mouse is an excellent choice for those looking to elevate their gaming experience.",
+  "brand": "Logitech",
+  "price": 1850000,
+  "category": "Chuột",
+  "quantity": 69,
+  "sold": 15,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694077407/LuanVan/heeu1moctlvqjbiojvye.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694077407/LuanVan/fg8xauyumkzbl2eawphq.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694077407/LuanVan/lv0zteeuhzisqjq6cwrg.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694077407/LuanVan/ujzb4vr5v3tyaqmygmx8.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 2,
+  "reviews": [
+    {
+      "star": 2,
+      "owner": {
+        "$oid": "6544a79f79ecf8d58f77cb13"
+      },
+      "comment": "test",
+      "updatedAt": {
+        "$date": "2023-11-20T19:12:18.564Z"
+      },
+      "_id": {
+        "$oid": "654a8e1db33d63fc231479e0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-07T09:02:24.487Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-20T19:12:19.289Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1700000"
+},
+{
+  "_id": {
+    "$oid": "64f995415c6977535754e744"
+  },
+  "title": "Logitech G502 X Plus",
+  "slug": "logitech-g502-x-plus",
+  "description": "Logitech G502 . This new type of switch possesses all the advantages that gamers have always wished for such as outstanding speed, excellent tactile feedback, almost immortal durability as well as the complete elimination of phenomenon. annoying double-click.",
+  "brand": "Logitech",
+  "price": 2900000,
+  "category": "Chuột",
+  "quantity": 59,
+  "sold": 3,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694078304/LuanVan/vimikeg9gisbtjpyogzz.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694078304/LuanVan/vcsad8xa5ocr1655hqrh.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694078304/LuanVan/zuj6itndztn5zui5gvzn.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694078305/LuanVan/ec0ppqvasslu89h40qr5.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694078304/LuanVan/xqi1vz4otjymiithsi6p.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-07T09:17:53.950Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:14:49.306Z"
+  },
+  "__v": 0,
+  "buyInPrice": "2850000"
+},
+{
+  "_id": {
+    "$oid": "64f99dfd5c6977535754e748"
+  },
+  "title": "Razer DeathAdder Essential",
+  "slug": "razer-deathadder-essential",
+  "description": "The Razer DeathAdder Essential is a popular gaming mouse produced by Razer Inc., a well-known manufacturer of gaming peripherals. Here is an introduction to the Razer DeathAdder Essential",
+  "brand": "Razer",
+  "price": 1900000,
+  "category": "Chuột",
+  "quantity": 23,
+  "sold": 10,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694080641/LuanVan/dutxrxzoyrwyo4fepdud.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694080641/LuanVan/sfgangcpanbizcn7utl1.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694080641/LuanVan/mzxrlcvqadgw0jofwhns.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694080641/LuanVan/gx7xcdmnorlilhjtyrky.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694080641/LuanVan/qifobs3qrpto77ngxbwe.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-07T09:55:09.041Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T09:57:19.740Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1800000"
+},
+{
+  "_id": {
+    "$oid": "64f99f0a5c6977535754e74b"
+  },
+  "title": "Razer Basilisk V3 (RZ01-04000100-R3M1)",
+  "slug": "razer-basilisk-v3-(rz01-04000100-r3m1)",
+  "description": "The Razer Basilisk V3 is designed for gamers who demand precise control, customization options, and comfort. Its advanced sensor, customizable features, and ergonomic design make it a suitable choice for competitive gaming and productivity tasks.",
+  "brand": "Razer",
+  "price": 1990000,
+  "category": "Chuột",
+  "quantity": 22,
+  "sold": 10,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694080800/LuanVan/cuvvfemltuwknkf43jwi.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694080801/LuanVan/ypvxgznmcqldy8by5zsh.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694080801/LuanVan/gvhiurrolaxmvms8h3yo.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-07T09:59:38.859Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T09:59:59.788Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1890000"
+},
+{
+  "_id": {
+    "$oid": "64f9a11b5c6977535754e74e"
+  },
+  "title": "Logitech Pro X GX Blue Switch",
+  "slug": "logitech-pro-x-gx-blue-switch",
+  "description": "The Logitech Pro X GX Blue Switch is a mechanical key switch known for its audible click, tactile feedback, and durability. It's a popular choice for gaming keyboards, especially among users who enjoy the distinctive feel and sound of mechanical switches during typing and gaming sessions.",
+  "brand": "Razer",
+  "price": 1990000,
+  "category": "Bàn phím",
+  "quantity": 217,
+  "sold": 101,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694081357/LuanVan/np3j2htaxsccbzxomhp0.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694081357/LuanVan/mu9xycgakfnmfucsqbsw.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694081356/LuanVan/xuzuxk78okrftdmkrpuy.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694081357/LuanVan/hju7oyqa3ohwcmwo4qzl.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 3.5,
+  "reviews": [
+    {
+      "star": 4.5,
+      "owner": {
+        "$oid": "64f0e4a86033f91b478adccd"
+      },
+      "comment": "Chat luong kem",
+      "_id": {
+        "$oid": "6502b73f42bff12996025a4b"
+      }
+    },
+    {
+      "star": 3,
+      "owner": {
+        "$oid": "651fc0ee2dbad24855a11ff6"
+      },
+      "comment": "tạm",
+      "updatedAt": {
+        "$date": "2023-10-21T05:39:50.551Z"
+      },
+      "_id": {
+        "$oid": "653364266de602d0d66a3c40"
+      }
+    },
+    {
+      "owner": {
+        "$oid": "6544a79f79ecf8d58f77cb13"
+      },
+      "star": 3,
+      "comment": "Tạm",
+      "updatedAt": {
+        "$date": "2023-11-22T20:02:08.862Z"
+      },
+      "_id": {
+        "$oid": "655e5e41a085212836efa8fa"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-07T10:08:27.137Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-22T20:02:09.687Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1880000"
+},
+{
+  "_id": {
+    "$oid": "64f9e9895c6977535754e751"
+  },
+  "title": "Logitech G Pro Gen 2",
+  "slug": "logitech-g-pro-gen-2",
+  "description": "The Logitech G Pro X Superlight is a high-performance gaming mouse known for its lightweight design, precise tracking, and customization options. It's designed to cater to the needs of competitive gamers who require speed, accuracy, and reliability during intense gaming sessions.",
+  "brand": "Razer",
+  "price": 1590000,
+  "category": "Tai nghe",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694100242/LuanVan/gohgwziopboey6ffycd1.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694100242/LuanVan/xjfqegorjyoarizku7sk.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1694100242/LuanVan/fggmwd8bvrzufcl25ua9.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-09-07T15:17:29.929Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T15:24:00.432Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1460000"
+},
+{
+  "_id": {
+    "$oid": "651edd2abc74e2562144840d"
+  },
+  "title": "Razer BlackWidow V3",
+  "slug": "razer-blackwidow-v3",
+  "description": "Bàn phím cơ Razer BlackWidow V3 Bàn phím cơ Razer BlackWidow V3 Cảm nhận sự khác biệt Bàn phím cơ Razer BlackWidow V3 thiết kế kiểu dáng TKL gọn nhẹ nhưng đem đến độ chính xác cao cùng cảm giác chơi game tuyệt đỉnh cho game thủ. BlackWidow V3 đã chiếm được sự ưa thích của […]",
+  "brand": "Razer",
+  "price": 1890000,
+  "category": "Bàn phím",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696521862/LuanVan/uipmusmqdq6dyue3ah0e.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696521862/LuanVan/xjxmfdryigpmfelq5oyj.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696521863/LuanVan/v2v820tkjwuhs2wel80w.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T15:58:34.514Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:04:23.730Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1800000"
+},
+{
+  "_id": {
+    "$oid": "651edf18bc74e2562144842d"
+  },
+  "title": "Razer Huntsman Mini",
+  "slug": "razer-huntsman-mini",
+  "description": "Bàn phím cơ Razer Huntsman Mini Bàn phím cơ Razer Huntsman Mini Switch Razer Optical Cung cấp khả năng hoạt động nhanh hơn, nhẹ hơn, mượt mà hơn và độ bền cao hơn so với các Switch cơ khác. Bàn phím cơ Razer Huntsman Mini với hai phiên bản: Switch Clicky Optical (Purple) với lực nhấn […]",
+  "brand": "Razer",
+  "price": 2690000,
+  "category": "Bàn phím",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522031/LuanVan/vqt447cais5vuwlc0bh3.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522032/LuanVan/p2bpgn5mng9wwe1war8e.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522032/LuanVan/gmszvbzex36myphnodbr.png"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:06:48.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:07:13.083Z"
+  },
+  "__v": 0,
+  "buyInPrice": "2500000"
+},
+{
+  "_id": {
+    "$oid": "651edf63bc74e25621448440"
+  },
+  "title": "Razer DeathStalker V2 Pro Low-Profile Optical",
+  "slug": "razer-deathstalker-v2-pro-low-profile-optical",
+  "description": "Bàn phím cơ không dây Razer DeathStalker V2 Pro Low-Profile Optical Switch quang học razer low profile Bàn phím cơ không dây Razer DeathStalker V2 Pro Low-Profile Optical có hành trình phím ngắn hơn mang lại phản hồi phím nhanh hơn, với tuổi thọ khoảng 70 triệu lần nhấn. Công nghệ không dây cao cấp […]",
+  "brand": "Razer",
+  "price": 5490000,
+  "category": "Bàn phím",
+  "quantity": 16,
+  "sold": 4,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522170/LuanVan/rsgnky4yub5xrblvgneh.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522170/LuanVan/zxcfkbptykvwix8xqv6s.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522170/LuanVan/mt0dn3nbwf62swnrbuqd.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522170/LuanVan/ybqv8om4nqspi2fsppkq.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 2.5,
+  "reviews": [
+    {
+      "owner": {
+        "$oid": "656dca0add7e9fd18111658c"
+      },
+      "star": 1,
+      "comment": "dsadsa",
+      "updatedAt": {
+        "$date": "2023-12-06T15:39:08.279Z"
+      },
+      "_id": {
+        "$oid": "657094f8b907fb9702dac08a"
+      }
+    },
+    {
+      "owner": {
+        "$oid": "656dca0add7e9fd18111658c"
+      },
+      "star": 5,
+      "comment": "tốt",
+      "updatedAt": {
+        "$date": "2023-12-06T16:11:08.587Z"
+      },
+      "_id": {
+        "$oid": "65709d1c2fc9f6119cb0d4f0"
+      }
+    },
+    {
+      "owner": {
+        "$oid": "656dca0add7e9fd18111658c"
+      },
+      "star": 1,
+      "comment": "tệ",
+      "updatedAt": {
+        "$date": "2023-12-06T16:11:41.722Z"
+      },
+      "_id": {
+        "$oid": "65709d3d2fc9f6119cb0d535"
+      }
+    },
+    {
+      "owner": {
+        "$oid": "656dca0add7e9fd18111658c"
+      },
+      "star": 3,
+      "comment": "tạm",
+      "updatedAt": {
+        "$date": "2023-12-07T07:15:07.667Z"
+      },
+      "_id": {
+        "$oid": "657170fb898f5f2b8aa92436"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-05T16:08:03.820Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:15:08.217Z"
+  },
+  "__v": 0,
+  "buyInPrice": "5000000"
+},
+{
+  "_id": {
+    "$oid": "651ee02fbc74e25621448462"
+  },
+  "title": "AKKO 3068B Plus Black Gold Multi-Modes",
+  "slug": "akko-3068b-plus-black-gold-multi-modes",
+  "description": "Bàn phím AKKO 3068B Plus Black Gold Multi-Modes (Akko CS Switch) Bàn phím AKKO 3068B Plus Black Gold Multi-Modes (Akko CS Switch) NGHIÊM CẤM SẠC TRỰC TIẾP QUA CỦ SẠC Model: 3068B Plus (68 nút, 65%) Kết nối: USB Type C, có thể tháo rời / Bluetooth 5.0 (tối đa 3 thiết bị)/ Wireless 2.4Ghz […]",
+  "brand": "Akko",
+  "price": 1690000,
+  "category": "Bàn phím",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522429/LuanVan/sk8xxwbu2kpz7bvspykc.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522429/LuanVan/niofo1ctygdmiantamhe.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522429/LuanVan/svvkegyczbw9mhley6yq.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522429/LuanVan/olv2x5zuw0qkbnsnsmhz.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522429/LuanVan/lrc2ykyxnukjl7qrcrtp.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:11:27.268Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:13:50.432Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1500000"
+},
+{
+  "_id": {
+    "$oid": "651ee12dbc74e25621448485"
+  },
+  "title": "AKKO 5075B Plus Dracula Castle",
+  "slug": "akko-5075b-plus-dracula-castle",
+  "description": "Bàn phím cơ AKKO 5075B Plus Dracula Castle (Multi-modes / RGB / Hotswap / Gasket mount) hứa hẹn sẽ rất hot trong phân khúc bàn phím cơ 2 triệu đồng nhờ những ưu điểm dưới đây: Layout 75%, có núm LED RGB có thể nháy theo nhạc và có cả led viền Gasket mount giúp […]",
+  "brand": "Akko",
+  "price": 1990000,
+  "category": "Bàn phím",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522596/LuanVan/izcn8zf8pijepsxk0wn1.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522596/LuanVan/f3wcexascjydr7c5e3sf.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522596/LuanVan/pq6fozhw4gxjrh1rannw.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522596/LuanVan/vhxbmbhttayufwe41ytl.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:15:41.124Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:16:36.931Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1890000"
+},
+{
+  "_id": {
+    "$oid": "651ee212bc74e256214484ab"
+  },
+  "title": "AKKO 5075B Plus Black Cyan",
+  "slug": "akko-5075b-plus-black-cyan",
+  "description": "Bàn phím cơ AKKO 5075B Plus Black Cyan (Multi-modes / RGB / Hotswap / Gasket mount) hứa hẹn sẽ rất hot trong phân khúc bàn phím cơ 2 triệu đồng nhờ những ưu điểm dưới đây: Layout 75%, có núm LED RGB có thể nháy theo nhạc và có cả led viền Gasket mount giúp […]",
+  "brand": "Akko",
+  "price": 2090000,
+  "category": "Bàn phím",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522894/LuanVan/vgazzmnyx97y6aazx8es.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522894/LuanVan/sz8sfvzlbd3glmwmiegd.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522894/LuanVan/irfbj3kbgcxvpu4cmeso.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522894/LuanVan/sx6gssexw4mpsvfvzont.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696522894/LuanVan/gpfurcrvnalaugq2sctx.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:19:30.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:21:35.426Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1990000"
+},
+{
+  "_id": {
+    "$oid": "651ee361bc74e2562144850b"
+  },
+  "title": "Logitech K120",
+  "slug": "logitech-k120",
+  "description": "Bàn phím Logitech K120 (920-002582) Bàn phím Logitech K120 (920-002582) ĐƠN GIẢN, ĐÁNG TIN CẬY Hoàn thành công việc phải là hoạt động đơn giản. Đó là điều khiến cho chiếc bàn phím kích thước đầy đủ này là sự phù hợp hoàn hảo. Nó là đối tác bền bỉ và đáng tin cậy, được […]",
+  "brand": "Logitech",
+  "price": 150000,
+  "category": "Bàn phím",
+  "quantity": 181,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523630/LuanVan/sdi1jhebrsdl3ns0yagc.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523630/LuanVan/ub9h81wlfobpspsj3yza.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523630/LuanVan/c1r9xhb01pl8ppemvh4a.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523630/LuanVan/mu9u8lgsxbwcenfocwt6.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:25:05.441Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:33:51.065Z"
+  },
+  "__v": 0,
+  "buyInPrice": "142000"
+},
+{
+  "_id": {
+    "$oid": "651ee5bfbc74e25621448532"
+  },
+  "title": "Logitech G213 Prodigy",
+  "slug": "logitech-g213-prodigy",
+  "description": "Bàn phím Logitech G213 Prodigy (920-008096) Bàn phím Logitech G213 Prodigy (920-008096) HIỆU QUẢ ĐẲNG CẤP CHƠI GAME Bàn phím Logitech G213 Prodigy (920-008096) có các phím lõm công thái học của Logitech được tùy chỉnh đặc biệt để mang lại phản ứng tiếp xúc ưu việt và cấu hình hiệu suất tương tự như […]",
+  "brand": "Logitech",
+  "price": 890000,
+  "category": "Bàn phím",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523879/LuanVan/sebmzd2h457wxper4vk4.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523879/LuanVan/txy8jjdyauaay10rzbe6.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523879/LuanVan/a9qnjeyeho2vzi8paviy.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523879/LuanVan/rybjsbz0bjbhjyhtqjkv.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696523879/LuanVan/gmr5ti5nvj1cds0wuqu4.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:35:11.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:38:00.048Z"
+  },
+  "__v": 0,
+  "buyInPrice": "720000"
+},
+{
+  "_id": {
+    "$oid": "651ee6c3bc74e2562144856c"
+  },
+  "title": "Logitech Gaming G413 TKL SE",
+  "slug": "logitech-gaming-g413-tkl-se",
+  "description": "Bàn phím Logitech Gaming G413 TKL SE (920-010448) Bàn phím Logitech Gaming G413 TKL SE (920-010448) Switch Tactile Bàn phím Logitech Gaming G413 TKL SE (920-010448) được thiết kế với layout Tenkeyless 87 phím, loại bỏ cụm phím số để mang lại sự gọn gàng nhưng vẫn đầy đủ chức năng. Logitech cũng trang bị […]",
+  "brand": "Logitech",
+  "price": 1290000,
+  "category": "Bàn phím",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524040/LuanVan/udx07hivrhrgh7s2chb0.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524040/LuanVan/yconrgw7orsaurtsj4cy.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524040/LuanVan/je0vwxtdszbdvstsi797.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524040/LuanVan/igglrhodz2quptxvquy3.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:39:31.991Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:40:41.174Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1150000"
+},
+{
+  "_id": {
+    "$oid": "651ee858bc74e256214485aa"
+  },
+  "title": "Logitech G913 TKL",
+  "slug": "logitech-g913-tkl",
+  "description": "Bàn phím không dây Logitech G913 TKL Bàn phím không dây Logitech G913 TKL Bàn phím mới – cuộc chơi mới Bàn phím không dây Logitech G913 TKL mang trong mình một loại switch cơ học mới nhất – được thiết kế đem lại hiệu năng cao, hỗ trợ công nghệ LIGHTSYNC RGB, Low-profile nhằm […]",
+  "brand": "Logitech",
+  "price": 3450000,
+  "category": "Bàn phím",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524422/LuanVan/fq9pl7ljepozzpehsct6.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524422/LuanVan/rbqwrgbx1d6ykqz3uaaz.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524422/LuanVan/rysvfzcp9hvlamqavw1p.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:46:16.098Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:47:03.123Z"
+  },
+  "__v": 0,
+  "buyInPrice": "3200000"
+},
+{
+  "_id": {
+    "$oid": "651ee937bc74e256214485d6"
+  },
+  "title": "Dell P2422H",
+  "slug": "dell-p2422h",
+  "description": "Gọn gàng, thanh lịch và tiện lợi: các chế độ ngửa, nghiêng, xoay 90 độ, điều chỉnh độ cao (phạm vi 150mm) cho phép bạn làm việc thoải mái tối đa với độ cao màn hình mong muốn. Viền màn hình 3 cạnh mỏng và sắc nét, hệ thống đi dây được trang bị ở chân đế dễ dàng sử dụng.",
+  "brand": "Dell",
+  "price": 4990000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524664/LuanVan/prsk2kx5whgvvrdwmnqi.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524664/LuanVan/fzbgbnawdb1xqy26lzj8.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524664/LuanVan/fhlacvpxb5uaqockb9bm.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524664/LuanVan/urokgtzwjjvp3v1ikwok.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:49:59.902Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:51:05.079Z"
+  },
+  "__v": 0,
+  "buyInPrice": "4500000"
+},
+{
+  "_id": {
+    "$oid": "651eea2ebc74e2562144860e"
+  },
+  "title": "Dell Ultrasharp U2422H",
+  "slug": "dell-ultrasharp-u2422h",
+  "description": "Màn hình Dell Ultrasharp U2422H (24”/ IPS/ FullHD/ 60Hz/5ms/ USB-C) tối ưu hóa sự thoải mái mắt với ComfortView Plus. Màn hình ánh sáng màu xanh thấp làm giảm lượng sáng xanh",
+  "brand": "Dell",
+  "price": 5690000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524908/LuanVan/evecbtm1al5riec4bpqu.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524907/LuanVan/j2d4dgl9ur4bcbochnjc.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524907/LuanVan/fhferhwq5dag3g5adzza.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524907/LuanVan/nlvrno899cbmo0mop25s.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524907/LuanVan/orpj85kralrzvrp13ruw.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696524907/LuanVan/wpmqnkqs0gihrnuxuevz.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-05T16:54:06.816Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-05T16:55:08.643Z"
+  },
+  "__v": 0,
+  "buyInPrice": "5200000"
+},
+{
+  "_id": {
+    "$oid": "652018eac8ae4bd5a96fe046"
+  },
+  "title": "HyperX Solocast",
+  "slug": "hyperx-solocast",
+  "description": "Microphone HyperX Solocast (4P5P8AA) Microphone HyperX Solocast (4P5P8AA) Ghi âm cắm và chạy Nhận những bản ghi âm chất lượng với chiếc Microphone HyperX Solocast (4P5P8AA) tụ USB dễ dùng này. Loại cực cardioid ưu tiên các nguồn âm thanh trực tiếp ngay trước micrô. Ghi âm Hi-Res 24-bit/96 kHz SoloCast hỗ trợ độ sâu […]",
+  "brand": "HyperX",
+  "price": 1350000,
+  "category": "microphone",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602429/LuanVan/baqucgpob6vzuhk0wceg.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602429/LuanVan/pu2q3q8mlc4xdtb8jgcm.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602429/LuanVan/qjz4nqaccwwf2r6h3cr0.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602429/LuanVan/i56cgc7qkrbp2tzrw4gs.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602429/LuanVan/sbescio6b0xwb7obo3un.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602429/LuanVan/vzr1sckxshwroffmxpbr.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T14:25:46.922Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T14:27:08.910Z"
+  },
+  "__v": 0,
+  "buyInPrice": "1300000"
+},
+{
+  "_id": {
+    "$oid": "652019c2c8ae4bd5a96fe051"
+  },
+  "title": "HyperX DuoCast RGB",
+  "slug": "hyperx-duocast-rgb",
+  "description": "Microphone HyperX DuoCast RGB (4P5E2AA) với kiểu dáng và âm thanh nổi bật. Với thiết kế trang nhã, giá đỡ chống sốc cấu hình thấp và vòng sáng RGB trang nhã, HyperX DuoCast là một micrô USB đầy đủ tính năng được thiết kế để chơi game, làm việc và sáng tạo nội dung. Micrô […]",
+  "brand": "HyperX",
+  "price": 2290000,
+  "category": "microphone",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602666/LuanVan/dgvmyvbytwrqq1kdn5ay.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602666/LuanVan/otk4erqxr5gnpewsbgdb.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602666/LuanVan/iqbthr0sopdyr0tzbmvg.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602666/LuanVan/ghkyhf6dnvvtpfeblebd.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602666/LuanVan/rj2pbasopnlm3udkdxtl.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T14:29:22.049Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T14:31:06.599Z"
+  },
+  "__v": 0,
+  "buyInPrice": "2000000"
+},
+{
+  "_id": {
+    "$oid": "65201a6bc8ae4bd5a96fe059"
+  },
+  "title": "HyperX Quadcast S",
+  "slug": "hyperx-quadcast-s",
+  "description": "Microphone HyperX Quadcast S Microphone HyperX Quadcast S Ánh sáng RGB rạng rỡ với các hiệu ứng động Cá nhân hóa ánh sáng RGB tuyệt đẹp và các hiệu ứng động để có một hình ảnh bắt mắt với phong cách tùy chỉnh. Tích hợp đế chống va đập và chống rung Tách Microphone HyperX […]",
+  "brand": "HyperX",
+  "price": 3290000,
+  "category": "microphone",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602865/LuanVan/miw6cyagebk9nycbhvga.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602865/LuanVan/hzorrfmffzk2h75ty7r6.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602865/LuanVan/pc5mk4nt21hbxnbzhnfo.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602865/LuanVan/zhqiyhzvawmsnxyjwztm.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602865/LuanVan/hl9mbe5p3klbfik0zgol.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696602865/LuanVan/gscf3hnsqscxz2jiduwt.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T14:32:11.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T14:34:25.201Z"
+  },
+  "__v": 0,
+  "buyInPrice": "3000000"
+},
+{
+  "_id": {
+    "$oid": "65201cfdc8ae4bd5a96fe079"
+  },
+  "title": "Màn hình Gaming Acer Nitro VG240Y-S",
+  "slug": "man-hinh-gaming-acer-nitro-vg240y-s",
+  "description": "Màn hình Gaming Acer Nitro VG240Y-S (24″/ IPS/ FullHD/ 165Hz/ 0.5ms/ 99% sRGB) mang độ phân giải FHD và độ phủ màu 99% sRGB. Mang đến độ hiển thị màu sắc nét, sặc sỡ. Cho game thủ hòa mình vào thế giới game có màu sắc sống động như thật. Bên cạnh đó, tấm nền IPS vượt bậc hơn hẳn so với tấm nền TN và VA. Cho góc nhìn rộng hơn 178 độ trên dưới trái phải, và màu sắc phong phú hơn. Thỏa mãn các yêu cầu trải nghiệm trọn vẹn và mãn nhãn.",
+  "brand": "Acer",
+  "price": 3490000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603539/LuanVan/p59y5btryzmwqhkocjvh.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603538/LuanVan/ip4ox478bomhtkzavpny.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603538/LuanVan/imcmdf7hfc5xyw0n6tzi.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603538/LuanVan/csrusehxkgtxl4slj1ti.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603538/LuanVan/ob3r6gvczuppjuxxp3bt.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603539/LuanVan/kf8h3al5c8t0e2ezoyma.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 5,
+  "reviews": [
+    {
+      "star": 5,
+      "owner": {
+        "$oid": "65439dd8d95d4bb20f6a592b"
+      },
+      "comment": "tôi thích",
+      "updatedAt": {
+        "$date": "2023-11-10T16:55:57.669Z"
+      },
+      "_id": {
+        "$oid": "654e609e6e43a4e1a8f587ce"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-06T14:43:09.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-10T16:55:59.069Z"
+  },
+  "__v": 0,
+  "buyInPrice": "3300000"
+},
+{
+  "_id": {
+    "$oid": "65201de9c8ae4bd5a96fe087"
+  },
+  "title": "Màn hình Gaming Acer Nitro KG241Y-P",
+  "slug": "man-hinh-gaming-acer-nitro-kg241y-p",
+  "description": "Màn hình Gaming Acer Nitro KG241Y-P (24″/ IPS/ FullHD/ 165Hz/ 0.5ms/ 99% sRGB) mang lại cho người dùng không gian giải trí chân thực, sống động với độ phân giải Full HD 1080p đầy ấn tượng khi chơi game hoặc xem phim giải trí. Các chi tiết nhỏ và văn bản cũng hiển thị rõ ràng và dễ nhìn với màn hình tấm nền IPS tỷ lệ khung hình 16:9 thông dụng này.",
+  "brand": "Acer",
+  "price": 3590000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603840/LuanVan/pyh4kxw6ugdasua0xk57.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603840/LuanVan/rmclaq9ptwmad5wvnngg.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603840/LuanVan/cv2hs9l4djz3nxzvgptm.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603840/LuanVan/qmc8xrz2owqknbgd4agz.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603840/LuanVan/d8uafjccxqiayranwy2p.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T14:47:05.446Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T14:50:40.205Z"
+  },
+  "__v": 0,
+  "buyInPrice": "3340000"
+},
+{
+  "_id": {
+    "$oid": "65201f06c8ae4bd5a96fe0a1"
+  },
+  "title": "Màn hình Cong Acer Nitro ED270R S3",
+  "slug": "man-hinh-cong-acer-nitro-ed270r-s3",
+  "description": "Màn hình Cong Acer Nitro ED270R S3 (27″ cong 1500R/ VA/ FullHD/ 180Hz/ 1ms VBR/ 99% sRGB) sở hữu tần số quét lên đến 180Hz kết hợp tốc độ phản hồi siêu tốc 1ms (VRB) – 5ms (GtG) , tha hồ cho Gamers tận hưởng các tựa game (đặc biệt các tựa game Esport, FPS) mà mình yêu thích một cách liền mạch, không gián đoạn và không bỏ lỡ bất cứ một khoảnh khắc nào.",
+  "brand": "Acer",
+  "price": 4390000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603977/LuanVan/ecp1ptxatmm5j0mvn15v.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603977/LuanVan/oiojvnddwlgsogmvy4f2.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603977/LuanVan/ijuvbcpkkgsxwv7rqkje.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603977/LuanVan/tf2v0kwmrkle82hnccgn.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696603977/LuanVan/mevzr2ol6anvpzbieoge.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T14:51:50.045Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T14:52:56.742Z"
+  },
+  "__v": 0,
+  "buyInPrice": "4100000"
+},
+{
+  "_id": {
+    "$oid": "65201f6dc8ae4bd5a96fe0a9"
+  },
+  "title": "Màn hình Gaming Acer Nitro VG270S",
+  "slug": "man-hinh-gaming-acer-nitro-vg270s",
+  "description": "Màn hình Gaming Acer Nitro VG270S (27″/ IPS/ FullHD/ 165Hz/ 0.5ms/ 99% sRGB) mang độ phân giải FHD và độ phủ màu 99% sRGB. Mang đến độ hiển thị màu sắc nét, sặc sỡ. Cho game thủ hòa mình vào thế giới game có màu sắc sống động như thật. Bên cạnh đó, tấm nền IPS vượt bậc hơn hẳn so với tấm nền TN và VA. Cho góc nhìn rộng hơn 178 độ trên dưới trái phải, và màu sắc phong phú hơn. Thỏa mãn các yêu cầu trải nghiệm trọn vẹn và mãn nhãn.",
+  "brand": "Acer",
+  "price": 4490000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604093/LuanVan/vkgkwhfa4zmnuljjhzww.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604093/LuanVan/akt9vlj6v6lcw0llbjln.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604092/LuanVan/nrxz8sfuvjl8leu2o9ba.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604093/LuanVan/zvczdxjgn1ls3lputw7n.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T14:53:33.230Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T14:54:52.832Z"
+  },
+  "__v": 0,
+  "buyInPrice": "4220000"
+},
+{
+  "_id": {
+    "$oid": "65201fdac8ae4bd5a96fe0ac"
+  },
+  "title": "Màn hình đồ họa Acer CBL282K",
+  "slug": "man-hinh-djo-hoa-acer-cbl282k",
+  "description": "Dù bạn đang xem phim, chơi game hay đang xử lý công việc, Màn hình đồ họa Acer CBL282K (28″/ IPS/ UHD 4K/ 60Hz/ 4ms/ DeltaE<1/ DCI P3 90%) vẫn sẽ mang lại cho bạn hình ảnh tuyệt vời nhất với độ phân giải lên đến 4K (UHD). Tận hưởng hình ảnh chân thật với thiết kế màn hình không viền ZeroFrame 28inch, mang lại nhiều không gian làm việc và trải nghiệm hơn.",
+  "brand": "Acer",
+  "price": 8490000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604236/LuanVan/pqtcoaa8vpkfvbuyguib.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604236/LuanVan/wcwxyxl1zilmsk0wavog.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604236/LuanVan/ailzdhslsgyfu4eg5vhe.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604236/LuanVan/dqoktxctpurmjvgaezz6.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T14:55:22.426Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T14:57:15.879Z"
+  },
+  "__v": 0,
+  "buyInPrice": "8000000"
+},
+{
+  "_id": {
+    "$oid": "65202195c8ae4bd5a96fe0c6"
+  },
+  "title": "Màn Hình ASUS TUF Gaming VG247Q1A",
+  "slug": "man-hinh-asus-tuf-gaming-vg247q1a",
+  "description": "Màn hình rất tốt",
+  "brand": "Asus",
+  "price": 3400000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604626/LuanVan/fdmstcjmd39t7qd9dolb.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604626/LuanVan/ex2sb2oqmgpcilwxk1xg.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604626/LuanVan/pfonuwzbwtbsk5i4mi3k.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T15:02:45.242Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T15:03:45.857Z"
+  },
+  "__v": 0,
+  "buyInPrice": "3200000"
+},
+{
+  "_id": {
+    "$oid": "65202227c8ae4bd5a96fe0ce"
+  },
+  "title": "Màn hình Asus TUF Gaming VG249Q3A",
+  "slug": "man-hinh-asus-tuf-gaming-vg249q3a",
+  "description": "Màn hình Asus TUF Gaming VG249Q3A (24\"/ FHD/ IPS/ 1ms GTG/ 180Hz). Là màn hình IPS 24 inch, FHD (1920x1080), HDR với tốc độ làm mới cực nhanh lên tới 180Hz*. Được thiết kế dành cho các game thủ chuyên nghiệp. Và mang tới trải nghiệm chơi game đắm chìm. Đó là những số thông số kỹ thuật quan trọng.",
+  "brand": "Asus",
+  "price": 3590000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604872/LuanVan/fdlmvxogts4uuzfmpjfy.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604874/LuanVan/fyn8jj8gjse4nmjmu7wq.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604874/LuanVan/sddvzueflegaa2fbhkzl.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604875/LuanVan/c93azh1tpue0edcx1lea.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696604876/LuanVan/lsxm6hjo7r6cgl36wwt2.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T15:05:11.297Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T15:07:56.049Z"
+  },
+  "__v": 0,
+  "buyInPrice": "3300000"
+},
+{
+  "_id": {
+    "$oid": "6520254ec8ae4bd5a96fe0d6"
+  },
+  "title": "Màn Hình đồ họa ASUS ProArt PA248QV",
+  "slug": "man-hinh-djo-hoa-asus-proart-pa248qv",
+  "description": "Màn Hình đồ họa ASUS ProArt PA248QV (24\"/ Full HD/ IPS/ 5ms/ 75Hz) - 24.1 inch, 16:10, IPS, WUXGA (1920 x 1200), 100% sRGB, 100% Rec.709, Độ chính xác màu ΔE < 2, chứng nhận Calman Verified, ProArt Preset, ProArt Palette, chân đế tiện dụng",
+  "brand": "Asus",
+  "price": 5390000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605637/LuanVan/lzayy173lrd37ojdqedk.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605637/LuanVan/rtpd0ty801ulevlncvtj.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605637/LuanVan/dsrkf4r1l3mr2ke462qc.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605636/LuanVan/q62rtn3fo0scskcy9zpf.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605636/LuanVan/cnmlskie25zpwrcp66b4.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605637/LuanVan/shdtw7rmctnapfexbd3p.jpg"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T15:18:38.233Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T15:20:37.079Z"
+  },
+  "__v": 0,
+  "buyInPrice": "5200000"
+},
+{
+  "_id": {
+    "$oid": "65202610c8ae4bd5a96fe0e6"
+  },
+  "title": "Màn hình cong Asus ROG Strix XG27WQ",
+  "slug": "man-hinh-cong-asus-rog-strix-xg27wq",
+  "description": "Màn Hình đồ họa Màn hình cong Asus ROG Strix XG27WQ (24\"/ Full HD/ IPS/ 5ms/ 75Hz) - 27 inch, 16:10, IPS, WUXGA (1920 x 1200), 100% sRGB, 100% Rec.709, Độ chính xác màu ΔE < 2, chứng nhận Calman Verified, ProArt Preset, ProArt Palette, chân đế tiện dụng",
+  "brand": "Asus",
+  "price": 10990000,
+  "category": "Màn hình",
+  "quantity": 18,
+  "sold": 2,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605786/LuanVan/errjo93gsapjhgjyoe4y.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605785/LuanVan/sxaefbmvuqav8gdiilvi.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605786/LuanVan/dcu34dk7hbm0fxn8m00j.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605787/LuanVan/yas19f0eedyn0ym2hale.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605859/LuanVan/iwgbn82faedx22iqqlcf.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605859/LuanVan/jygvsb6pbqrqdawad9af.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605860/LuanVan/eknlnbm9wdzfcvpuadd9.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1696605860/LuanVan/fkyy8pjjbsxv5zpatm3u.png"
+  ],
+  "origin": "American",
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-10-06T15:21:52.038Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T15:24:19.644Z"
+  },
+  "__v": 0,
+  "buyInPrice": "10000000"
+},
+{
+  "_id": {
+    "$oid": "655d0d183326290a3a8475fc"
+  },
+  "title": "Webcam Logitech C615",
+  "slug": "webcam-logitech-c615",
+  "description": "<h3>Độ ph&acirc;n giải tối đa: 1080p/30fps - 720p/30fps<br>Loại ti&ecirc;u cự: lấy n&eacute;t tự động<br>C&ocirc;ng nghệ thấu k&iacute;nh: k&iacute;nh<br>Micr&ocirc; t&iacute;ch hợp: đơn &acirc;m<br>Trường ngắm: 78&deg;</h3>\r\n<p><strong>Webcam Logitech C615 (HD)</strong></p>\r\n<p><strong>Logitech C615 (HD)&nbsp;</strong>sẽ l&agrave; một trong những d&ograve;ng&nbsp;<a title=\"webcam\" href=\"https://gearvn.com/collections/webcam\">webcam</a>&nbsp;gi&uacute;p bạn tạo ấn tượng với những người xung quanh. Những h&igrave;nh ảnh long lanh c&ugrave;ng giọng n&oacute;i ch&acirc;n thực l&agrave; những g&igrave; m&agrave;&nbsp; C615 mang đến cho bạn. Ngo&agrave;i ra, thiết bị c&oacute; thể &nbsp;đ&iacute;nh k&egrave;m ch&acirc;n m&aacute;y Tripod gi&uacute;p bạn quay nhiều g&oacute;c độ kh&aacute;c nhau.</p>\r\n<p><strong>Th&ocirc;ng tin sản phẩm</strong></p>\r\n<p><strong>Thiết kế tiện dụng</strong></p>\r\n<p>Logitech C615 c&oacute; thiết kế xoay 360 gi&uacute;p bạn dễ d&agrave;ng định vị c&aacute;c m&aacute;y ảnh ở nhiều g&oacute;c. Đồng thời, bạn c&oacute; thể gấp thiết bị một c&aacute;ch dễ d&agrave;ng khi bạn mang theo b&ecirc;n m&igrave;nh v&agrave; sử dụng. Người d&ugrave;ng c&oacute; thể sở hữu một g&oacute;c quay tốt hơn th&ocirc;ng qua việc gắn thiết bị cố định tr&ecirc;n một ch&acirc;n m&aacute;y Tripod</p>\r\n<p><strong>Độ ph&acirc;n giải cao</strong></p>\r\n<p>Bạn c&oacute; thể sử dụng C615 &nbsp;như một m&aacute;y ảnh 5.0MP để lưu lại những khoảnh khắc tuyệt đệp c&ugrave;ng gia đ&igrave;nh, bạn b&egrave;. Bạn cũng c&oacute; thểquay film với độ ph&acirc;n giải Full HD 1080p. Với độ ph&acirc;n giải fullHD bạn sẽ c&oacute; những h&igrave;nh ảnh trung thực khi sử dụng.</p>\r\n<p><strong>C&ocirc;ng nghệ</strong><strong>&nbsp;</strong><strong>Crystal</strong></p>\r\n<p>Với c&ocirc;ng nghệ Fluid Crystal, bạn c&oacute; thể tạo ấn tượng với đối t&aacute;c bằng những h&igrave;nh ảnh r&otilde; n&eacute;t v&agrave; tươi s&aacute;ng c&ugrave;ng những &acirc;m thanh r&otilde; r&agrave;ng trong trẻo. Ngo&agrave;i ra, chế độ chỉnh s&aacute;ng tự động sẽ gi&uacute;p h&igrave;nh ảnh bạn trở n&ecirc;n s&aacute;ng hơn kể cả trong điều kiện &aacute;nh s&aacute;ng tối.</p>\r\n<p><strong>&Acirc;m thanh r&otilde; r&agrave;ng</strong></p>\r\n<p>Bạn sẽ kh&ocirc;ng c&ograve;n lo lắng khi đ&agrave;m thoại v&igrave; mic được trang bị c&ocirc;ng nghệ chống ồn. C&ocirc;ng nghệ chống ồn n&agrave;y sẽ mang đến cho bạn những &acirc;m thanh r&otilde; r&agrave;ng v&agrave; kh&ocirc;ng bị lẫn tạp &acirc;m.</p>\r\n<p><strong>Th&ocirc;ng số kỹ thuật</strong></p>\r\n<p>- Độ ph&acirc;n giải: 5.0MP ghi h&igrave;nh chuẩn HD 1080p</p>\r\n<p>- Hệ điều h&agrave;nh tương th&iacute;ch: Windows Vista&reg;, Windows&reg; 7 (32-bit or 64-bit) or Windows&reg; 8</p>",
+  "brand": "Logitech",
+  "buyInPrice": 990000,
+  "price": 1590000,
+  "category": "Webcam",
+  "quantity": 92,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700597014/LuanVan/gdpzwudb7ai2jeimf98h.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700597015/LuanVan/dygm7kqdzqq1jg1fziou.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700597015/LuanVan/bmqb0ko4jvawo1hexdjz.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700597016/LuanVan/mbgvsod13wjmxdoyzrn2.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-21T20:03:36.555Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-21T20:03:36.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560a59e9a20696a14d5eaa2"
+  },
+  "title": "Loa Microlab MS212",
+  "slug": "loa-microlab-ms212",
+  "description": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none;\">Được ra mắt với vai tr&ograve; l&agrave;&nbsp;<a href=\"https://gearvn.com/collections/loa\" target=\"_blank\" rel=\"noopener\"><span style=\"color: blue;\">loa m&aacute;y t&iacute;nh</span></a>,&nbsp;Microlab MS212&nbsp;hứa hẹn sẽ trở th&agrave;nh một&nbsp;<a href=\"https://gearvn.com/collections/gaming-gear\" target=\"_blank\" rel=\"noopener\"><span style=\"color: blue;\">gaming gear</span></a> đ&aacute;ng sở hữu cho những ai vừa muốn trang tr&iacute; kh&ocirc;ng gian chơi game của m&igrave;nh vừa muốn c&oacute; một thiết bị &acirc;m thanh tuyệt vời. Sở hữu vẻ ngo&agrave;i đơn giản nhưng v&ocirc; c&ugrave;ng thanh lịch, Microlab MS212 hứa hẹn mang đến cho người d&ugrave;ng những trải nghiệm &acirc;m thanh sống động nhất.</span></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-outline-level: 3;\"><strong><span style=\"font-size: 13.5pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none;\">Thiết kế hiện đại, tiện lợi</span></strong></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none;\">Thiết kế&nbsp;<a href=\"https://gearvn.com/collections/loa-soundbar-chinh-hang\" target=\"_blank\" rel=\"noopener\"><span style=\"color: blue;\">loa soundbar</span></a> đẹp mắt, sang trọng ph&ugrave; hợp với mọi kh&ocirc;ng gian ph&ograve;ng kh&aacute;ch, l&agrave;m việc hay cả những chuyến du lịch xa. Microlab MS212 được thiết kế theo phong c&aacute;ch đương đại tạo vẻ ngo&agrave;i thu h&uacute;t, đồng thời gi&uacute;p qu&aacute; tr&igrave;nh vệ sinh cũng diễn ra dễ d&agrave;ng v&agrave; tiện lợi hơn.</span></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-outline-level: 3;\"><strong><span style=\"font-size: 13.5pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none;\">Chất lượng &acirc;m thanh vượt trội</span></strong></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none;\">MS212 được đ&aacute;nh gi&aacute; l&agrave; một trong những d&ograve;ng&nbsp;<a href=\"https://gearvn.com/collections/microlab\" target=\"_blank\" rel=\"noopener\"><span style=\"color: blue;\">loa Microlab</span></a>&nbsp;sẽ mang đến cho bạn những ph&uacute;t gi&acirc;y trải nghiệm &acirc;m thanh chất lượng.&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"font-size: 12.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; mso-font-kerning: 0pt; mso-ligatures: none;\">Để tối ưu h&oacute;a chất lượng &acirc;m thanh đầu ra. Microlab MS212 c&ograve;n được trang bị th&ecirc;m t&iacute;nh năng lọc &acirc;m, gi&uacute;p giảm thiểu tạp &acirc;m v&agrave; tạo ra &acirc;m thanh ấm, chi tiết nhất khi nghe. Đ&acirc;y sẽ l&agrave; sự lựa chọn tốt nhất cho c&aacute;c game thủ, những người y&ecirc;u &acirc;m nhạc lu&ocirc;n mong muốn c&oacute; được những gi&acirc;y ph&uacute;t trải nghiệm &acirc;m thanh th&uacute; vị.</span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>",
+  "brand": "microlab",
+  "buyInPrice": 220000,
+  "price": 450000,
+  "category": "Loa để bàn",
+  "quantity": 29,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832674/LuanVan/uipqddokxb5yabmmvtvi.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832674/LuanVan/ogtzdnrxeuuwcp4mycmr.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832674/LuanVan/npwxtrjcthzttw9erii9.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832674/LuanVan/z0rjulvrxwf72vkjuvuc.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832674/LuanVan/skznweszj5xyayxmdpzp.jpg"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-24T13:31:10.348Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T13:46:20.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560a6639a20696a14d5ec0c"
+  },
+  "title": "Loa Microlab MS210",
+  "slug": "loa-microlab-ms210",
+  "description": "<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Microlab&nbsp;MS210 l&agrave; thiết bị&nbsp;<a href=\"https://gearvn.com/collections/loa-nghe-nhac-cao-cap\" target=\"_blank\" rel=\"noopener\">loa audio</a> c&oacute; t&iacute;nh di động cao, thừa sức đ&aacute;nh bại d&agrave;n &acirc;m thanh từ laptop cũng như ph&aacute;t ra chất &acirc;m tuyệt vời cho bộ PC. Nhỏ gọn tiện lợi, thiết kế đẹp mắt hứa hẹn&nbsp;mang lại trải nghiệm hấp dẫn cho người d&ugrave;ng.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Kiểu d&aacute;ng nhỏ gọn</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">MS210 l&agrave; d&ograve;ng&nbsp;<a href=\"https://gearvn.com/collections/microlab\" target=\"_blank\" rel=\"noopener\">loa Microlab</a> sở hữu cấu h&igrave;nh kh&ocirc;ng qu&aacute; cồng kềnh với trọng lượng 0.6kg, k&iacute;ch thước 380 x 65 x 65&nbsp;mm. Với khả năng di động cao, chiếc loa&nbsp;Microlab&nbsp;MS210 n&agrave;y c&oacute; thể đồng h&agrave;nh c&ugrave;ng người d&ugrave;ng ở bất cứ đ&acirc;u. Kh&ocirc;ng chỉ vậy c&ograve;n tiết kiệm được diện t&iacute;ch để b&agrave;n, tạo kh&ocirc;ng gian tho&aacute;ng m&aacute;t cho g&oacute;c l&agrave;m việc.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Dễ d&agrave;ng điều chỉnh&nbsp;</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">C&aacute;c n&uacute;t điều chỉnh &acirc;m thanh v&agrave; bật nguồn&nbsp;loa MS210&nbsp;được đặt ngay phần mặt tr&ecirc;n của&nbsp;<a href=\"https://gearvn.com/collections/loa\" target=\"_blank\" rel=\"noopener\">loa vi t&iacute;nh</a>. Điều n&agrave;y mang đến vị tr&iacute; thuận lợi cho người d&ugrave;ng điều chỉnh nhanh mức &acirc;m thanh m&agrave; bản th&acirc;n mong muốn một c&aacute;ch nhanh ch&oacute;ng.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Hệ thống loa chất lượng&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><a href=\"https://gearvn.com/collections/loa-de-ban\" target=\"_blank\" rel=\"noopener\">Loa để b&agrave;n</a> Microlab&nbsp;cung cấp những &acirc;m thanh to, r&otilde; v&agrave; chất lượng khi kết nối với laptop hay m&aacute;y t&iacute;nh b&agrave;n. Chất &acirc;m trong trẻo n&agrave;y được ph&aacute;t ra từ hệ thống loa Soundbar 2.0 hứa hẹn đem lại trải nghiệm nghe th&uacute; vị cho người d&ugrave;ng.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Kết nối hiện đại&nbsp;</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Microlab MS210 cập nhật kết nối Bluetooth 5.0 hiện đại. Việc kết nối kh&ocirc;ng d&acirc;y n&agrave;y sẽ g&oacute;p phần v&agrave;o kh&ocirc;ng gian l&agrave;m việc chuy&ecirc;n nghiệp của người d&ugrave;ng hơn. Loại bỏ được c&aacute;c vấn đề d&acirc;y nối rườm r&agrave; hay dễ d&agrave;ng l&agrave;m sống động kh&ocirc;ng gian d&atilde; ngoại, du lịch c&ugrave;ng bạn b&egrave;.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">&nbsp;</span></p>",
+  "brand": "microlab",
+  "buyInPrice": 120000,
+  "price": 420000,
+  "category": "Loa để bàn",
+  "quantity": 42,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832872/LuanVan/mdobwoviiry2j2iwrywy.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832871/LuanVan/h6jsxxprp5ghokawu27z.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832871/LuanVan/o1xntqcgcn0hnazbxonu.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832871/LuanVan/w3uh66eacunw3r1r3inf.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832871/LuanVan/or8etxf2ny5uukvzulqi.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-24T13:34:27.439Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T13:48:05.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560aad19a20696a14d5eea4"
+  },
+  "title": "Loa Microlab M-108BT",
+  "slug": "loa-microlab-m-108bt",
+  "description": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Đ&aacute;nh gi&aacute; chi tiết sản phẩm loa Microlab M-108BT</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Loa Microlab M-108BT mang đến si&ecirc;u phẩm&nbsp;<a href=\"https://gearvn.com/collections/loa-de-ban\" target=\"_blank\" rel=\"noopener\">loa để b&agrave;n</a>&nbsp;ấn tượng. Hỗ trợ nhiều thể loại &acirc;m thanh kh&aacute;c nhau một c&aacute;ch sống động, kết nối kh&ocirc;ng d&acirc;y tiện lợi, t&ugrave;y chỉnh &acirc;m thanh dễ d&agrave;ng.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Thiết kế chắc chắn</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><a href=\"https://gearvn.com/collections/microlab\" target=\"_blank\" rel=\"noopener\">Loa Microlab</a>&nbsp;M-108BT được nh&agrave; sản xuất tạo ra với khả năng chống rung v&agrave; trượt tốt. Phần ch&acirc;n đế tạo sự vững chắc khi đặt ở bất kỳ vị tr&iacute; n&agrave;o, ngay cả khi đặt tr&ecirc;n cao cũng kh&ocirc;ng lo rơi rớt. Người d&ugrave;ng c&oacute; thể y&ecirc;n t&acirc;m sử dụng với độ an to&agrave;n cao.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Chất lượng &acirc;m thanh h&agrave;i h&ograve;a, sống động&nbsp;</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Microlab mang đến d&ograve;ng&nbsp;<a href=\"https://gearvn.com/collections/loa\" target=\"_blank\" rel=\"noopener\">loa vi t&iacute;nh</a>&nbsp;tạo ra những chất &acirc;m bắt tai hỗ trợ r&otilde; n&eacute;t từng tiếng bass cho &acirc;m thanh sống động. 2 loa treble c&ograve;n mang đến sự trong trẻo, to v&agrave; r&otilde; để trải nghiệm nghe th&ecirc;m đắm ch&igrave;m.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Dễ d&agrave;ng điều chỉnh &acirc;m thanh&nbsp;</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Trang bị trực tiếp n&uacute;t vặn điều chỉnh &acirc;m lượng tr&ecirc;n loa Microlab để những thao t&aacute;c vặn to, nhỏ dễ d&agrave;ng. Mặt sau c&ograve;n hỗ trợ th&ecirc;m n&uacute;t vặn t&ugrave;y chỉnh &acirc;m bass để người d&ugrave;ng điều chỉnh theo nhu cầu v&agrave; thưởng thức theo phong c&aacute;ch ri&ecirc;ng.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Kết nối tr&ecirc;n nhiều thiết bị hơn</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Loa&nbsp;Microlab hỗ trợ nhiều phương tiện kết nối hơn cho người d&ugrave;ng dễ sử dụng. Họ c&oacute; thể li&ecirc;n kết với điện thoại,&nbsp;<a href=\"https://gearvn.com/collections/laptop\" target=\"_blank\" rel=\"noopener\">laptop</a>, m&aacute;y t&iacute;nh b&agrave;n,... qua c&aacute;c cổng kết nối phổ biến như Jack 3.5mm, Bluetooth hoặc USB.&nbsp;</span></p>",
+  "brand": "microlab",
+  "buyInPrice": 300000,
+  "price": 699000,
+  "category": "Loa để bàn",
+  "quantity": 76,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834005/LuanVan/wicejdmw87ks1uouqptw.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834005/LuanVan/qdprasdzijpulwj40ydh.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834005/LuanVan/uiwccruljycrb0mvlcr8.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834005/LuanVan/hx0vz2uskqtefsic2ku9.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-24T13:53:21.168Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T13:53:21.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560acfb9a20696a14d5ef62"
+  },
+  "title": "Loa Microlab B27",
+  "slug": "loa-microlab-b27",
+  "description": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Thiết kế chắc chắn</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\"><a href=\"https://gearvn.com/collections/microlab\" target=\"_blank\" rel=\"noopener\">Loa Microlab</a>&nbsp;Microlab B27&nbsp;được nh&agrave; sản xuất tạo ra với khả năng chống rung v&agrave; trượt tốt. Phần ch&acirc;n đế tạo sự vững chắc khi đặt ở bất kỳ vị tr&iacute; n&agrave;o, ngay cả khi đặt tr&ecirc;n cao cũng kh&ocirc;ng lo rơi rớt. Người d&ugrave;ng c&oacute; thể y&ecirc;n t&acirc;m sử dụng với độ an to&agrave;n cao.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Chất lượng &acirc;m thanh h&agrave;i h&ograve;a, sống động&nbsp;</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Loa&nbsp;Microlab tạo ra những chất &acirc;m bắt tai hỗ trợ r&otilde; n&eacute;t từng tiếng bass cho &acirc;m thanh sống động. 2 loa treble c&ograve;n mang đến sự trong trẻo, to v&agrave; r&otilde; để trải nghiệm nghe th&ecirc;m đắm ch&igrave;m.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Dễ d&agrave;ng điều chỉnh &acirc;m thanh&nbsp;</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Trang bị trực tiếp n&uacute;t vặn điều chỉnh &acirc;m lượng tr&ecirc;n&nbsp;<a href=\"https://gearvn.com/collections/loa\" target=\"_blank\" rel=\"noopener\">loa vi t&iacute;nh</a>&nbsp;Microlab để những thao t&aacute;c vặn to, nhỏ dễ d&agrave;ng. Ngo&agrave;i ra, mặt sau c&ograve;n hỗ trợ th&ecirc;m n&uacute;t vặn t&ugrave;y chỉnh &acirc;m bass để người d&ugrave;ng điều chỉnh theo nhu cầu v&agrave; thưởng thức theo phong c&aacute;ch ri&ecirc;ng.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Kết nối tr&ecirc;n nhiều thiết bị hơn</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Loa&nbsp;Microlab hỗ trợ nhiều phương tiện kết nối hơn cho người d&ugrave;ng dễ sử dụng. Họ c&oacute; thể li&ecirc;n kết với điện thoại,&nbsp;<a href=\"https://gearvn.com/collections/laptop\" target=\"_blank\" rel=\"noopener\">laptop</a>,&nbsp;<a href=\"https://gearvn.com/pages/pc-gvn\">PC,</a>... qua&nbsp;cổng kết nối USB.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">&nbsp;</span></p>",
+  "brand": "microlab",
+  "buyInPrice": 170000,
+  "price": 350000,
+  "category": "Loa để bàn",
+  "quantity": 42,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834558/LuanVan/zndvdmkcki6h1hi8y81e.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834557/LuanVan/icfcnoyjkl2c1w23ywip.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834559/LuanVan/lr6xuhhuc9ezjjyfagaw.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834558/LuanVan/vve67cu0eguxc1jibfkh.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700834558/LuanVan/bzxr38wbq36kkgnrhtfh.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-24T14:02:35.491Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T14:02:35.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560f6f42c6268ff53ee7c2c"
+  },
+  "title": "Loa Microlab M300BT",
+  "slug": "loa-microlab-m300bt",
+  "description": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Đ&aacute;nh gi&aacute; chi tiết sản phẩm loa&nbsp;Microlab M300BT</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Để tận hưởng được những chất &acirc;m to, r&otilde; với mức gi&aacute; hợp t&uacute;i tiền kh&ocirc;ng thể kh&ocirc;ng kể đến những d&ograve;ng&nbsp;loa vi t&iacute;nh&nbsp;của&nbsp;Microlab. Thiết kế đẹp mắt, hỗ trợ &acirc;m thanh chất lượng hứa hẹn mang lại trải nghiệm tuyệt vời cho bạn. T&igrave;m hiểu nhanh c&ugrave;ng GEARVN nh&eacute;!</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Kiểu d&aacute;ng tinh tế, sang trọng</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Loa&nbsp;Microlab&nbsp;M300BT sở hữu thiết kế tinh tế với từng đường n&eacute;t được chau chuốt tỉ mỉ. C&ugrave;ng với chất lượng được h&atilde;ng đầu tư v&agrave;o thiết kế đ&atilde; th&agrave;nh c&ocirc;ng trong việc mang lại một sản phẩm tuyệt vời.&nbsp;Th&iacute;ch hợp để bạn lựa chọn cho việc sử dụng kh&ocirc;ng gian l&agrave;m việc v&agrave; giải tr&iacute; tại nh&agrave; hay văn ph&ograve;ng l&agrave;m việc.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Trải nghiệm &acirc;m thanh sống động</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Loa để b&agrave;n&nbsp;Microlab sở hữu c&ocirc;ng suất 38W thể hiện đủ hiệu suất &acirc;m thanh để bạn trải nghiệm thoải m&aacute;i. &Acirc;m thanh được s&agrave;ng lọc v&agrave; khả năng giảm nhiễu tốt mang đến trải nghiệm xem phim, nghe nhạc hay thậm ch&iacute; chơi game ho&agrave;n hảo. Chất &acirc;m ch&acirc;n thật ph&aacute;t ra từ hệ thống v&ocirc; c&ugrave;ng bắt tai v&agrave; đầy ấn tượng.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Hỗ trợ đa phương tiện kết nối</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Thiết bị&nbsp;loa audio&nbsp;Microlab&nbsp;M300BT&nbsp; cung cấp đầu kết nối dễ d&agrave;ng qua 4 phương thức l&agrave;:&nbsp;3.5 mm, USB, Bluetooth, SD card. Bạn chỉ cần việc cắm v&agrave; sử dụng, kh&ocirc;ng qu&aacute; phức tạp v&agrave; cầu kỳ. Hỗ trợ đa phương tiện để việc li&ecirc;n kết với c&aacute;c thiết bị kh&aacute;c như laptop, m&aacute;y t&iacute;nh b&agrave;n được thuận lợi.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">&nbsp;</span></p>",
+  "brand": "microlab",
+  "buyInPrice": 800000,
+  "price": 1120000,
+  "category": "Loa để bàn",
+  "quantity": 31,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700853496/LuanVan/kbvvkjiibhy73aptlysf.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700853495/LuanVan/etivdr848u0hcshxcct7.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700853496/LuanVan/wlczvlks0p5fsccjbccg.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700853496/LuanVan/swuwm0vg42kr4qny25jg.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-24T19:18:12.110Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T19:18:12.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560f8392c6268ff53ee7c34"
+  },
+  "title": "Loa Microlab B26",
+  "slug": "loa-microlab-b26",
+  "description": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Thiết kế nhỏ nhắn, độc đ&aacute;o</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Microlab B26 c&oacute; thiết kế dạng h&igrave;nh khối với những đường cắt sắc gọn v&ocirc; c&ugrave;ng s&aacute;ng tạo gi&uacute;p loa to&aacute;t l&ecirc;n sự sang trọng, đẳng cấp v&agrave; phong c&aacute;ch ri&ecirc;ng của m&igrave;nh. Ch&acirc;n&nbsp;loa&nbsp;kh&aacute; lớn c&ugrave;ng thiết kế đối xứng gi&uacute;p loa đứng vững v&agrave;ng hơn tr&ecirc;n b&agrave;n, kệ tủ, văn ph&ograve;ng l&agrave;m việc của bạn.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Loa Microlab B26 sở hữu chất &acirc;m r&otilde; r&agrave;ng, l&ocirc;i cuốn</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Sở hữu c&ocirc;ng suất 4W, c&ugrave;ng hệ thống 2.0 k&ecirc;nh gi&uacute;p chất &acirc;m của&nbsp;&nbsp;loa Microlab&nbsp;hay, sống động, dải &acirc;m đặc trưng kh&ocirc;ng trộn lẫn gi&uacute;p tận hưởng &acirc;m nhạc một c&aacute;ch chất lượng nhất. xua tan mọi căng thẳng, mệt mỏi.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Điều chỉnh hướng &acirc;m thanh dễ d&agrave;ng</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Phần nửa tr&ecirc;n của loa được thiết kế gi&uacute;p việc xoay dễ d&agrave;ng từ đ&oacute; chỉnh hướng ph&aacute;t &acirc;m thanh t&ugrave;y th&iacute;ch. Ngo&agrave;i ra cổng kết nối 3.5 mm kết hợp sử dụng với&nbsp;PC,&nbsp;laptop, điện thoại, tablet dễ d&agrave;ng khiến loa cực kỳ linh động khi sử dụng.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Điều khiển trực quan, dễ t&ugrave;y chỉnh</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Với việc sở hữu n&uacute;m vặn &acirc;m lượng ở mặt gi&uacute;p bạn c&oacute; thể t&ugrave;y chỉnh &acirc;m dễ d&agrave;ng. D&ograve;ng&nbsp;loa vi t&iacute;nh&nbsp;được ối giản h&oacute;a n&uacute;t bấm gi&uacute;p người d&ugrave;ng sử dụng dễ d&agrave;ng hơn rất nhiều v&agrave; kh&ocirc;ng gặp c&aacute;c lỗi &acirc;m thanh.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">&nbsp;</span></p>",
+  "brand": "microlab",
+  "buyInPrice": 120000,
+  "price": 330000,
+  "category": "Loa để bàn",
+  "quantity": 67,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700853818/LuanVan/wzfskttacw5jf870bpei.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700853818/LuanVan/f26e0fr3atszxbybnhdu.jpg",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700853818/LuanVan/za3ioo9l4mcoc8qvtos7.jpg"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-24T19:23:37.063Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T19:23:37.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560f9392c6268ff53ee7c3b"
+  },
+  "title": "Loa Razer Nommo V2",
+  "slug": "loa-razer-nommo-v2",
+  "description": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Đ&aacute;nh gi&aacute; chi tiết&nbsp;loa Razer Nommo V2</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Từ l&acirc;u,&nbsp;loa vi t&iacute;nh&nbsp;đ&atilde; từng l&agrave; thiết bị &acirc;m thanh l&yacute; tưởng cho mọi người d&ugrave;ng m&aacute;y t&iacute;nh b&agrave;n. Trải qua qu&aacute; tr&igrave;nh ph&aacute;t triển, cả thiết kế v&agrave; t&iacute;nh năng đ&atilde; được cải tiến tuyệt vời, điều n&agrave;y được thể hiện qua chiếc loa&nbsp;Razer Nommo V2. C&ugrave;ng GEARVN t&igrave;m hiểu về sản phẩm audio tuyệt vời đến từ một trong những thương hiệu đứng đầu về&nbsp;gaming gear&nbsp;ngay sau đ&acirc;y nh&eacute; !</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Mang đến trải nghiệm &acirc;m thanh si&ecirc;u đỉnh</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Mọi &acirc;m thanh được truyền đến chiếc loa Razer Nommo V2 th&ocirc;ng qua ph&iacute;ch cắm pha nh&ocirc;m, điều n&agrave;y đảm bảo giảm thiểu t&igrave;nh trạng reflect của &acirc;m thanh. Đ&acirc;y sẽ l&agrave; tiền đề tuyệt vời cho chiếc&nbsp;loa Razer&nbsp;t&aacute;i tạo v&agrave; xử l&yacute; trong bộ phận driver 3&rdquo;, rồi mang lại sự ch&iacute;nh x&aacute;c của &acirc;m thanh trong những tựa game c&ugrave;ng với sự trong trẻo cần c&oacute; ở những bản nhạc, bộ phim.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Ch&acirc;n thực c&ugrave;ng THX Spatial Audio</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Sở hữu cho m&igrave;nh c&ocirc;ng nghệ &acirc;m thanh v&ograve;m 7.1 THX Spatial Audio, Razer Nommo V2 mang đến khả năng t&aacute;i tạo m&ocirc;i trường l&yacute; tưởng v&ocirc; c&ugrave;ng ch&acirc;n thực. Đưa bạn h&ograve;a nhập v&agrave;o những thế giới tr&ograve; chơi, bộ phim y&ecirc;u th&iacute;ch hay đắm m&igrave;nh v&agrave;o kh&ocirc;ng gian &acirc;m nhạc m&agrave; đ&atilde; c&oacute; tr&ecirc;n những sản phẩm&nbsp;loa audio&nbsp;cao cấp.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Đồng bộ vẻ đẹp LED RGB với Razer Chroma</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Bạn nghĩ rằng Razer Nommo V2 sẽ chỉ l&agrave; một chiếc loa gaming b&igrave;nh thường với t&ocirc;ng m&agrave;u đen? H&atilde;y nh&igrave;n v&agrave;o ph&iacute;a sau của sản phẩm, bạn sẽ bất ngờ với chiếc đ&egrave;n&nbsp;LED RGB&nbsp;trang bị c&ocirc;ng nghệ Razer Chroma. C&oacute; thể chiếu s&aacute;ng với v&ocirc; v&agrave;n hiệu ứng được hỗ trợ tr&ecirc;n phần mềm, Razer Nommo V2 biến mọi kh&ocirc;ng gian giải tr&iacute; v&agrave; l&agrave;m việc trở n&ecirc;n rực rỡ v&agrave; b&ugrave;ng nổ. Kết hợp th&ecirc;m khả năng đồng bộ với những tựa game hỗ trợ Razer Chroma, tất cả dường như khuếch đại cho game thủ một kh&ocirc;ng gian gaming l&yacute; tưởng nhất.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">N&acirc;ng cấp &acirc;m thanh với phần loa sub trầm 5.5&rdquo;</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Với chiếc loa sub trầm 5.5&rdquo;, Razer Nommo V2 sẽ mang đến &acirc;m thanh c&oacute; phần trầm hơn, s&acirc;u lắng hơn, qua đ&oacute; gia tăng sự phong ph&uacute; cho trải nghiệm nghe của người d&ugrave;ng. Một điều kh&ocirc;ng thể kh&ocirc;ng nhắc đến đ&oacute; l&agrave; khả năng khuếch t&aacute;n &acirc;m thanh, đưa &acirc;m thanh đến mọi nơi trong ph&ograve;ng.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Dễ d&agrave;ng t&ugrave;y chỉnh với phụ kiện pod</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Đi k&egrave;m với Razer Nommo V2 đ&oacute; l&agrave; một chiếc n&uacute;m vặn Razer Wireless Control Pod, với chức năng t&ugrave;y chỉnh &acirc;m lượng của &acirc;m thanh, EQ th&ocirc;ng qua kết nối bluetooth. Nhờ đ&oacute;, bạn c&oacute; thể dễ d&agrave;ng t&ugrave;y chỉnh &acirc;m thanh của ch&iacute;nh chiếc loa cho d&ugrave; setup ở bất k&igrave; g&oacute;c n&agrave;o trong ph&ograve;ng. Kh&ocirc;ng dừng lại đ&oacute; khi vẻ ngo&agrave;i của chiếc pod l&agrave; một điểm cộng v&ocirc; c&ugrave;ng lớn, t&ocirc; điểm th&ecirc;m v&agrave;o tổng thể của g&oacute;c gaming của ch&uacute;ng ta.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">&nbsp;</span></p>",
+  "brand": "razer",
+  "buyInPrice": 5000000,
+  "price": 6800000,
+  "category": "Loa để bàn",
+  "quantity": 48,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700854078/LuanVan/qlesxb3vwlr8mtkp04vv.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700854077/LuanVan/sokvogfidhdg9ma2uoxv.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700854077/LuanVan/yspkqgcen3mtuoy4rpuy.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-24T19:27:53.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-24T19:27:53.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6560fb2e2c6268ff53ee7f62"
+  },
+  "title": "Loa Razer Leviathan V2 X",
+  "slug": "loa-razer-leviathan-v2-x",
+  "description": "<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Đ&aacute;nh gi&aacute; chi tiết loa Razer Leviathan V2 X</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Được ra mắt với vai tr&ograve; l&agrave;&nbsp;loa m&aacute;y t&iacute;nh,&nbsp;Razer Leviathan V2 X&nbsp;hứa hẹn sẽ trở th&agrave;nh một&nbsp;gaming gear&nbsp;đ&aacute;ng sở hữu cho những ai vừa muốn trang tr&iacute; kh&ocirc;ng gian chơi game của m&igrave;nh vừa muốn c&oacute; một thiết bị &acirc;m thanh tuyệt vời. Sở hữu vẻ ngo&agrave;i đơn giản nhưng v&ocirc; c&ugrave;ng thanh lịch, Razer Leviathan V2 X hứa hẹn mang đến cho người d&ugrave;ng những trải nghiệm &acirc;m thanh sống động nhất.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">&Acirc;m thanh chất lượng cao</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Razer Leviathan V2 X mang thiết kế một soundbar nhỏ gọn d&agrave;nh cho mọi kh&ocirc;ng gian chơi game.&nbsp;Được hỗ trợ USB Type-C,&nbsp;loa Razer&nbsp;như một trợ thủ đắc lực gi&uacute;p bổ sung sức mạnh chơi game cho tất cả c&aacute;c tr&ograve; chơi, phim ảnh v&agrave; &acirc;m nhạc của bạn.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">K&iacute;ch thước loa nhỏ gọn, chỉ d&agrave;i khoảng 400mm,&nbsp;soundbar&nbsp;c&oacute; thể được đặt gọn d&agrave;ng b&ecirc;n dưới&nbsp;m&agrave;n h&igrave;nh m&aacute;y t&iacute;nh&nbsp;của bạn, kh&ocirc;ng những c&oacute; thể tạo n&ecirc;n một tổng thể hợp l&yacute;, logic, m&agrave; c&ograve;n mang lại &acirc;m trường rộng v&agrave; sống động.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Độ trung thực &acirc;m thanh&nbsp;cao</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Được trang bị hai driver to&agrave;n dải v&agrave; hai bộ tản nhiệt thụ động, Razer Leviathan V2 X cải thiện độ r&otilde; n&eacute;t của &acirc;m thanh v&agrave; độ s&acirc;u cộng hưởng để mang lại trải nghiệm &acirc;m thanh đắm ch&igrave;m cho mọi hoạt động giải tr&iacute; của bạn.</span></p>\r\n<p class=\"MsoNormal\"><strong><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">C&ocirc;ng suất tối ưu</span></strong></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">Được hỗ trợ bởi một c&aacute;p USB-C duy nhất, Razer Leviathan V2 X tiết kiệm năng lượng hơn, mang lại &acirc;m thanh đắm ch&igrave;m ở đầu ra &acirc;m lượng 90dB ở độ cao 1 m&eacute;t v&agrave; cung cấp c&aacute;c kết nối đơn giản v&agrave; thiết lập dễ d&agrave;ng.</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif;\">&nbsp;</span></p>",
+  "brand": "razer",
+  "buyInPrice": 2300000,
+  "price": 2700000,
+  "category": "Loa để bàn",
+  "quantity": 45,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700854578/LuanVan/e8avvjtq5om1z3ocw1zl.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700854578/LuanVan/fbjxuqjuejosomlgagj2.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700854578/LuanVan/d7kudgdosdaiym9ef9db.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-11-24T19:36:14.095Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T09:53:06.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656dd3d0f3b7724a2573c272"
+  },
+  "title": "USB 64GB SANDISK SDDDC3-256G-G46",
+  "slug": "usb-64gb-sandisk-sdddc3-256g-g46",
+  "description": "<ul>\r\n<li>Loại sản phẩm: USB OTG</li>\r\n<li>Dung lượng: 64&nbsp;GB</li>\r\n<li>Chuẩn kết nối: USB Type-C,&nbsp;USB Type-C</li>\r\n<li>Tốc độ đọc: 150 MB/s</li>\r\n</ul>",
+  "brand": "SanDisk",
+  "buyInPrice": 100000,
+  "price": 220000,
+  "category": "Usb",
+  "quantity": 31,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701696464/LuanVan/gc15sd4tfcvaapoaaq2b.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701696464/LuanVan/p74sjrizi7gyb8scxbln.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701696464/LuanVan/q9hjqnekkqmifgab2sp0.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-12-04T13:27:44.646Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T09:52:57.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570a2922fc9f6119cb0db9c"
+  },
+  "title": "USB SanDisk 16GB (SDCZ600-G35)",
+  "slug": "usb-sandisk-16gb-(sdcz600-g35)",
+  "description": "<p>Sở hữu th&acirc;n h&igrave;nh nhỏ nhắn kết hợp c&ugrave;ng danh tiếng đến từ SanDisk, USB SanDisk 16GB (SDCZ600-G35) thể hiện m&ocirc; phỏng th&acirc;n h&igrave;nh m&igrave;nh tr&ocirc;ng giống &ldquo;1 vi&ecirc;n đạn&rdquo; biểu tượng cho sự mạnh mẽ thanh tho&aacute;t.</p>\r\n<p>Sử dụng 1 n&uacute;t đẩy vừa tạo được sự tự tin về mặt thẩm mĩ, b&ecirc;n cạnh đ&oacute; c&ograve;n c&oacute; t&aacute;c dụng rất tốt cho việc bảo vệ đầu kết nối. Khi đầu kết nối lu&ocirc;n được k&eacute;o v&agrave;o trong, người d&ugrave;ng sẽ cảm nhận r&otilde; thấy được l&agrave; vẻ bề ngo&agrave;i lu&ocirc;n s&aacute;ng b&oacute;ng, kh&ocirc;ng gặp t&igrave;nh trạng han gỉ, hạn chế bụi v&agrave; c&aacute;c chất bẩn bay v&agrave;o b&ecirc;n trong g&acirc;y nhiễu cũng như giảm tuổi thọ của USB.</p>\r\n<p>Với 2 m&agrave;u đỏ v&agrave; đen phối hợp thể hiện được sức mạnh, sự c&aacute; t&iacute;nh v&agrave; kh&aacute; được ưa chuộng, lựa chọn c&aacute;c điểm nhấn được thể hiện bằng m&agrave;u đỏ. Đối với tất cả c&aacute;c sản phẩm lưu trữ của h&atilde;ng Sandisk, ch&uacute;ng ta đều phải kể tới phần mềm An to&agrave;n truy cập (Sandisk SecureAccess software). Một phần mềm an ninh chuy&ecirc;n biệt cho sản phẩm của h&atilde;ng. Với phần mềm n&agrave;y ch&uacute;ng ta đ&atilde; c&oacute; chức năng m&atilde; h&oacute;a v&agrave; bảo vệ dữ liệu bằng mật khẩu ngay trực tiếp tr&ecirc;n ph&acirc;n v&ugrave;ng ổ cứng.</p>\r\n<p>Với 16GB c&oacute; sẵn người d&ugrave;ng c&oacute; thể thoải m&aacute;i lựa chọn v&agrave; lưu trữ trong USB, 16GB tuy kh&ocirc;ng thật sự lớn nhưng đ&atilde; đ&aacute;p ứng được nhu cầu thoải m&aacute;i của văn ph&ograve;ng cũng như cung cấp đủ dung lượng cho game thủ c&oacute; thể copy game. Tuy nhi&ecirc;n, giới hạn nằm ở việc kh&ocirc;ng thể copy những game c&oacute; dung lượng lớn h&agrave;ng đầu hiện nay như GTA 5, Far Cry 5, Call of Duty 8,&hellip;</p>",
+  "brand": "SanDisk",
+  "buyInPrice": 34000,
+  "price": 150000,
+  "category": "Usb",
+  "quantity": 40,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701880465/LuanVan/bg8tmhedeqpstftrtmmu.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701880465/LuanVan/sawvk8kgmwczakpdt4kj.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701880467/LuanVan/vcoxcqnrceqsgzfcfnih.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-12-06T16:34:26.315Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T16:46:48.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570b5ce51ec204783b45faf"
+  },
+  "title": "Webcam Logitech C505",
+  "slug": "webcam-logitech-c505",
+  "description": "<p class=\"MsoNormal\" style=\"mso-margin-bottom-alt: auto; line-height: normal; mso-outline-level: 2; background: white;\"><span style=\"font-size: 13.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-font-kerning: 0pt; mso-ligatures: none;\">Thiết bị ghi h&igrave;nh/ Webcam Logitech C505 l&agrave; sản phẩm chất lượng mang đến chất lượng khung h&igrave;nh sắc n&eacute;t, c&ugrave;ng khả năng hội thoại r&otilde; r&agrave;ng gi&uacute;p người d&ugrave;ng c&oacute; thể ghi h&igrave;nh v&agrave; giao tiếp một c&aacute;ch dễ d&agrave;ng. Với nhiều đặc điểm nổi bật, webcam Logitech C505 l&agrave; thiết bị rất đ&aacute;ng để bạn đầu tư nhằm đ&aacute;p ứng nhu cầu học tập v&agrave; l&agrave;m việc.&nbsp;</span></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-bottom-alt: auto; line-height: normal; mso-outline-level: 4; background: white;\"><strong><span style=\"font-size: 13.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-font-kerning: 0pt; mso-ligatures: none;\">Thiết kế gọn nhẹ hiện đại, độ ph&acirc;n giải m&agrave;n h&igrave;nh rộng 720p HD/30 fps</span></strong></p>\r\n<p class=\"MsoNormal\" style=\"mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span style=\"font-size: 13.0pt; font-family: 'Times New Roman',serif; mso-fareast-font-family: 'Times New Roman'; color: #333333; mso-font-kerning: 0pt; mso-ligatures: none;\">Thiết bị ghi h&igrave;nh/ Webcam Logitech C505 được thiết kế với k&iacute;ch thước 72,9 x 31,91 x 66,64 mm c&ugrave;ng trọng lượng si&ecirc;u nhẹ chỉ 75g, cho ph&eacute;p bạn tối ưu kh&ocirc;ng gian sử dụng cũng như dễ d&agrave;ng di chuyển đến nhiều vị tr&iacute;.&nbsp;</span></p>\r\n<p class=\"MsoNormal\"><span style=\"font-size: 13.0pt; line-height: 107%; font-family: 'Times New Roman',serif; color: #333333; background: white;\">Thiết bị ghi h&igrave;nh/ Webcam Logitech C505 với thiết lập từ quang học m&aacute;y t&iacute;nh x&aacute;ch tay gi&uacute;p mang đến chất lượng video sắc n&eacute;t, mượt m&agrave; c&ugrave;ng m&agrave;u sắc rực rỡ nhờ v&agrave;o độ ph&acirc;n giải m&agrave;n h&igrave;nh rộng ấn tượng 720p HD/30 fps.&nbsp;</span></p>",
+  "brand": "Logitech",
+  "buyInPrice": 400000,
+  "price": 760000,
+  "category": "Webcam",
+  "quantity": 20,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885391/LuanVan/xc96xfq021a7ar1xr0ai.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885390/LuanVan/nze1zyzviplkkr8oexss.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885390/LuanVan/lxmk246rh0meotzcrsob.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-12-06T17:56:30.627Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T17:56:30.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570b68b51ec204783b46005"
+  },
+  "title": "Webcam Logitech C270",
+  "slug": "webcam-logitech-c270",
+  "description": "<p style=\"margin-top: 0cm; background: white;\"><span style=\"font-size: 13.0pt; color: #333333;\">M&ocirc;̣t lựa chọn tuy&ecirc;̣t vời khác dành cho các bạn y&ecirc;u thích dòng sản ph&acirc;̉m webcam Logitech mang t&ecirc;n Logitech HD Webcam C270. Trước h&ecirc;́t, là m&ocirc;̣t sản ph&acirc;̉m webcam Logitech, HD Webcam C270 đã g&acirc;y &acirc;́n tượng với các game thủ v&ecirc;̀ uy tín thương hi&ecirc;̣u. Người dùng có th&ecirc;̉ bước đ&acirc;̀u &nbsp;an t&acirc;m v&ecirc;̀ ch&acirc;́t lượng của dòng sản ph&acirc;̉m webcam Logitech HD C270. Và sản ph&acirc;̉m webcam Logitech HD C270 thực sự đã kh&ocirc;ng làm giới game thủ phải th&acirc;́t vọng. Thi&ecirc;́t bị webcam Logitech HD C270 kh&ocirc;ng những sở hữu hình thức đẹp mà còn chứng tỏ giá trị của mình qua m&ocirc;̣t loạt các tính năng hữu ích, tuy&ecirc;̣t vời. Sau đ&acirc;y, Tekshop sẽ cùng các bạn tìm hi&ecirc;̉u kĩ lưỡng hơn v&ecirc;̀ những tính năng đã làm n&ecirc;n giá trị của webcam Logitech HD C270.</span></p>\r\n<p style=\"margin-top: 0cm; background: white; box-sizing: border-box; margin-bottom: 1rem; max-width: 100%; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: start; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px;\"><span style=\"box-sizing: border-box; max-width: 100%;\"><span style=\"font-size: 13.0pt; color: #333333;\">V&acirc;̃n mang phong cách lịch lãm, sang trọng đ&acirc;̀y l&ocirc;i cu&ocirc;́n, webcam Logitech HD C270 ti&ecirc;́p tục sử dụng t&ocirc;ng màu chủ đạo là màu đen bóng b&acirc;̉y. Và v&acirc;̃n với dáng vẻ nhỏ nhắn, gọn gàng, năng đ&ocirc;̣ng đó, sản ph&acirc;̉m webcam Logitech HD C270 ti&ecirc;́p tục hứa hẹn nhi&ecirc;̀u tính năng thi&ecirc;́t thực và đáng giá, đang đợi 500 anh em game thủ trải nghi&ecirc;̣m và khám phá. Hình ảnh bi&ecirc;̉u tượng và dòng t&ecirc;n thương hi&ecirc;̣u Logitech màu trắng xu&acirc;́t hi&ecirc;̣n duy&ecirc;n dáng ở m&ocirc;̣t b&ecirc;n góc webcam Logitech HD C270. Thi&ecirc;́t k&ecirc;́ đơn giản mà v&acirc;̃n lịch thi&ecirc;̣p, thời trang, đó chính là nét đẹp đặc trưng của các dòng sản ph&acirc;̉m webcam Logitech. Thi&ecirc;́t bị webcam Logitech HD C270 đích thực là m&ocirc;̣t chi&ecirc;́n hữu kh&ocirc;ng th&ecirc;̉ thi&ecirc;́u trong những cu&ocirc;̣c streame game đ&acirc;̀y cảm xúc của m&ocirc;̣t streamer chuy&ecirc;n nghi&ecirc;̣p y&ecirc;u ngh&ecirc;̀.</span></span></p>\r\n<p class=\"MsoNormal\">&nbsp;</p>",
+  "brand": "Logitech",
+  "buyInPrice": 300000,
+  "price": 690000,
+  "category": "Webcam",
+  "quantity": 31,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885580/LuanVan/oexwyyzenomm1cbr6ha8.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885578/LuanVan/ezitkhrijsk5qm3mrq1y.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885578/LuanVan/g3qx5xbrpexnwjwkyuo0.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-12-06T17:59:39.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T17:59:39.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570b82551ec204783b460b1"
+  },
+  "title": "Webcam Logitech BRIO 300",
+  "slug": "webcam-logitech-brio-300",
+  "description": "<p>Đang cập nhật</p>",
+  "brand": "Logitech",
+  "buyInPrice": 1000000,
+  "price": 1550000,
+  "category": "Webcam",
+  "quantity": 29,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885990/LuanVan/hbkbzyboievxsigpn9ms.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885988/LuanVan/njfadx8y4dqqyqrtuhod.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701885990/LuanVan/bgoe7kvyvibqmhjdpd7k.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-12-06T18:06:29.993Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T18:06:29.993Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570c6b190b318af91a4384c"
+  },
+  "title": "Webcam Rapoo C270L",
+  "slug": "webcam-rapoo-c270l",
+  "description": "<p>Đang cập nhật</p>",
+  "brand": "Asus",
+  "buyInPrice": 200000,
+  "price": 720000,
+  "category": "Webcam",
+  "quantity": 21,
+  "sold": 0,
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701889714/LuanVan/spnnucvas37f5btmhu4o.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701889713/LuanVan/e97kuqgjot4sbn43tu4o.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1701889712/LuanVan/vpokpoutavlh19ib4bm7.png"
+  ],
+  "reviewPoint": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-12-06T19:08:33.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T19:08:33.394Z"
+  },
+  "__v": 0
+}]

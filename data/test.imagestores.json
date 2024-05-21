@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "6558704c0d821d37b9d83743"
+  },
+  "title": "logo",
+  "slug": "logo",
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700326225/LuanVan/n1ysbrsturecrhkwrkpo.png"
+  ],
+  "createdAt": {
+    "$date": "2023-11-18T08:05:32.649Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T16:50:25.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655909b37ea96337300b99d1"
+  },
+  "title": "mini poster",
+  "slug": "mini-poster",
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700334002/LuanVan/amv5qzy2s6yhwg57litw.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700334003/LuanVan/art0w5eka0xuyoi9mczk.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700334002/LuanVan/rwqnrffowyl6gqxpoxxh.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700334003/LuanVan/oyl7ietfc88ecr22xi5n.png"
+  ],
+  "createdAt": {
+    "$date": "2023-11-18T19:00:03.393Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T19:00:03.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65590ee97ea96337300b9aa0"
+  },
+  "title": "left poster",
+  "slug": "left-poster",
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700335336/LuanVan/wskldh74b2vhlnjvnrog.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700335338/LuanVan/whx60h3ayiaxd7k1y6in.png"
+  ],
+  "createdAt": {
+    "$date": "2023-11-18T19:22:17.801Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T19:22:17.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655911f17ea96337300b9b48"
+  },
+  "title": "banner",
+  "slug": "banner",
+  "images": [
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700336112/LuanVan/ckwb6lvtzcssc0i2sg1l.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700336113/LuanVan/zevpiz99sgqxjhfh40i8.png",
+    "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700336113/LuanVan/n1dwodkl0fzqxbaoytim.jpg"
+  ],
+  "createdAt": {
+    "$date": "2023-11-18T19:35:13.493Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-18T19:35:13.493Z"
+  },
+  "__v": 0
+}]

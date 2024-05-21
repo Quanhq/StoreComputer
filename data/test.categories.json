@@ -1,0 +1,106 @@
+[
+  {
+    "_id": {
+      "$oid": "64f96b85204f8f5ca3048fd7"
+    },
+    "title": "Chuột",
+    "slug": "chuot",
+    "brand": ["Logitech", "Razer", "Asus", "Corsair", "HyperX"],
+    "image": "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1695224854/LuanVan/l6vgwu39stwynetxlozh.jpg",
+    "updatedAt": {
+      "$date": "2023-09-20T15:47:29.495Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64f96b85204f8f5ca3048fdd"
+    },
+    "title": "Webcam",
+    "slug": "webcam",
+    "brand": ["Logitech", "Asus"],
+    "image": "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1695224915/LuanVan/fq0hb0lrc0icy2l86hhg.jpg",
+    "updatedAt": {
+      "$date": "2023-09-20T15:48:29.966Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64f96b85204f8f5ca3048fd8"
+    },
+    "title": "Bàn phím",
+    "slug": "ban-phim",
+    "brand": ["Logitech", "Razer", "Akko", "Corsair"],
+    "image": "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1695228615/LuanVan/ibhlhcesizmfsfs1b8bj.jpg",
+    "updatedAt": {
+      "$date": "2023-09-20T16:50:10.481Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64f96b85204f8f5ca3048fdc"
+    },
+    "title": "Microphone",
+    "slug": "microphone",
+    "brand": ["Razer", "HyperX"],
+    "image": "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1695224967/LuanVan/da7d9ml4avngo62z85up.jpg",
+    "updatedAt": {
+      "$date": "2023-09-20T15:49:21.848Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64f96b85204f8f5ca3048fdb"
+    },
+    "title": "Màn hình",
+    "slug": "man-hinh",
+    "brand": ["LG", "Dell", "Asus", "ViewSonic", "Acer"],
+    "image": "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1695225068/LuanVan/dsodglofbsrzqebxg9qh.jpg",
+    "updatedAt": {
+      "$date": "2023-09-20T15:51:03.058Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64f96b85204f8f5ca3048fd9"
+    },
+    "title": "Tai nghe",
+    "slug": "tai-nghe",
+    "brand": ["Logitech", "Razer", "Asus", "Corsair", "HyperX"],
+    "image": "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1695225174/LuanVan/vgkgzrt4oqp9pjwy4abk.jpg",
+    "updatedAt": {
+      "$date": "2023-09-20T15:52:50.154Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "650b23e76c2743176a9087e3"
+    },
+    "title": "Usb",
+    "slug": "usb",
+    "brand": ["Kingston", "SanDisk", "Toshiba"],
+    "createdAt": {
+      "$date": "2023-09-20T16:55:03.171Z"
+    },
+    "updatedAt": {
+      "$date": "2023-09-20T16:55:13.725Z"
+    },
+    "__v": 0,
+    "image": "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1695228919/LuanVan/tandttqiipb4mtaln7hj.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "6560a4c89a20696a14d5ea9b"
+    },
+    "title": "Loa để bàn",
+    "slug": "loa-dje-ban",
+    "brand": ["logitech", "microlab", "razer", "soundmax"],
+    "image": "https://res.cloudinary.com/dwq6xc5vl/image/upload/v1700832461/LuanVan/hyxkgis4nq167ag1uuxl.jpg",
+    "createdAt": {
+      "$date": "2023-11-24T13:27:36.752Z"
+    },
+    "updatedAt": {
+      "$date": "2023-11-24T13:27:36.752Z"
+    },
+    "__v": 0
+  }
+]
